@@ -24,6 +24,7 @@
 		10A77EB729588B1D00516D5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		10A77EBA29588B1D00516D5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		10A77EBC29588B1D00516D5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		10A77EC229588B3D00516D5F /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				10A77EB729588B1D00516D5F /* Assets.xcassets */,
 				10A77EB929588B1D00516D5F /* LaunchScreen.storyboard */,
 				10A77EBC29588B1D00516D5F /* Info.plist */,
+				10A77EC229588B3D00516D5F /* Config.xcconfig */,
 			);
 			path = SecureText;
 			sourceTree = "<group>";
